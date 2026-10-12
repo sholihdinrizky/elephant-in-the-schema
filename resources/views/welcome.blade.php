@@ -25,7 +25,7 @@
 
                     <!-- Nav links -->
                     <nav class="hidden md:flex items-center gap-8 text-sm font-medium text-zinc-400">
-                        <a href="#tujuan" class="hover:text-white transition">Agentic AI Konsep</a>
+                        <a href="#tujuan" class="hover:text-white transition">Agentic Concept</a>
                     </nav>
                 </div>
 
@@ -67,13 +67,13 @@
 
                     <!-- Main Serif Headline -->
                     <h1 class="font-serif text-4xl sm:text-5xl lg:text-[3.5rem] leading-[1.12] text-white font-normal tracking-tight">
-                        Personalized Agentic AI<br>
-                        shouldn’t mean adding chaos
+                        Personalized Agentic AI:<br>
+                        Cari kerja tak harus jadi ujian mental
                     </h1>
 
                     <!-- Konsep Singkat -->
                     <p class="text-zinc-400 text-base leading-relaxed max-w-2xl font-light">
-                        Sistem ini merupakan <strong class="text-white font-semibold">AI agent</strong> yang membantu pencari kerja dalam menemukan dan menentukan peluang pekerjaan yang paling sesuai dengan profil mereka. Agent menganalisis berbagai lowongan, membandingkannya dengan kompetensi pengguna, serta menyesuaikan materi lamaran secara personal.
+                        Daripada berjam-jam tenggelam dalam ratusan lowongan yang belum tentu cocok, serahkan kurasinya ke <strong class="text-white font-semibold">AI Agent</strong>. Sistem membedah kompetensi Anda secara semantik, menyaring peluang paling prospektif, dan mempersonalisasi berkas lamaran—agar Anda bisa fokus persiapan interview, bukan meratapi algoritma pencarian.
                     </p>
 
                     <!-- Feature Bullet Points with Icons -->
@@ -84,7 +84,7 @@
                                     <path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.381z" clip-rule="evenodd"/>
                                 </svg>
                             </div>
-                            <span class="leading-relaxed">Mengurangi proses pencarian dan seleksi lowongan yang dilakukan secara manual</span>
+                            <span class="leading-relaxed"><strong class="text-white font-medium">Bebas Capek Kurasi Manual:</strong> Mengeliminasi sortir lowongan satu per satu lewat penelusuran agen cerdas otomatis.</span>
                         </div>
 
                         <div class="flex items-start gap-4">
@@ -93,7 +93,7 @@
                                     <path d="M5.5 16a3.5 3.5 0 01-.369-6.98 4 4 0 117.753-1.977A4.5 4.5 0 1113.5 16h-8z"/>
                                 </svg>
                             </div>
-                            <span class="leading-relaxed">Membantu pengguna menemukan pekerjaan yang paling relevan dengan profil dan tujuan kariernya</span>
+                            <span class="leading-relaxed"><strong class="text-white font-medium">Pencocokan Presisi &amp; Semantik:</strong> Memetakan kompetensi dan portofolio nyata ke lowongan yang valid, bukan sekadar cocok-cocokan keyword.</span>
                         </div>
 
                         <div class="flex items-start gap-4">
@@ -102,7 +102,7 @@
                                     <path fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 6a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1 3a1 1 0 100 2h6a1 1 0 100-2H7z" clip-rule="evenodd"/>
                                 </svg>
                             </div>
-                            <span class="leading-relaxed">Menyesuaikan CV dan materi lamaran berdasarkan karakteristik setiap pekerjaan</span>
+                            <span class="leading-relaxed"><strong class="text-white font-medium">Tailoring Berkas Tanpa Drama:</strong> Menyesuaikan sorotan CV dan materi lamaran secara adaptif agar langsung tepat sasaran di meja HRD.</span>
                         </div>
 
                         <div class="flex items-start gap-4">
@@ -111,7 +111,7 @@
                                     <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                                 </svg>
                             </div>
-                            <span class="leading-relaxed">Memberikan rekomendasi yang lebih personal dibandingkan pencarian pekerjaan berbasis keyword biasa</span>
+                            <span class="leading-relaxed"><strong class="text-white font-medium">Rekomendasi Berbasis Prioritas:</strong> Agen otonom memprioritaskan lowongan dengan probabilitas kecocokan tertinggi demi efisiensi langkah Anda.</span>
                         </div>
                     </div>
 
