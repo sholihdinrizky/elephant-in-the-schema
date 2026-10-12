@@ -22,6 +22,34 @@ Agent selanjutnya mengidentifikasi kompetensi dan pengalaman pengguna yang palin
 
 ---
 
+## Tangkapan Layar & Dokumentasi (Screenshots)
+
+### 1. Antarmuka Web (UI)
+
+#### Halaman Utama (Landing Page - Kinsta Style)
+![Landing Page](assets/landing-page.png)
+
+#### Dashboard Proyek Agentic AI
+![Dashboard Proyek](assets/dashboard.png)
+
+---
+
+### 2. Bukti Database & Hasil Seeding (Physical Database)
+
+#### Tabel `users`
+Tabel akun pengguna berisi 15 user acak mahasiswa ITS dan 1 user akun demo penguji (`dosenpbkk@its.ac.id`).
+- **Tautan Gambar:** [user-table.png (GitHub)](https://github.com/Kifrx/PBKK-W6-Kel10/blob/main/assets/user-table.png)
+
+[![Tabel Users](assets/user-table.png)](https://github.com/Kifrx/PBKK-W6-Kel10/blob/main/assets/user-table.png)
+
+#### Tabel `projects`
+Tabel proposal ide proyek Agentic AI dengan foreign key `user_id` terikat ke `users.id` (cascade delete), serta kolom `api_key_secure` yang tersimpan dalam keadaan terenkripsi.
+- **Tautan Gambar:** [project-table.png (GitHub)](https://github.com/Kifrx/PBKK-W6-Kel10/blob/main/assets/project-table.png)
+
+[![Tabel Projects](assets/project-table.png)](https://github.com/Kifrx/PBKK-W6-Kel10/blob/main/assets/project-table.png)
+
+---
+
 ## Pemenuhan Aturan & Spesifikasi Teknis
 
 | Komponen | Spesifikasi Penugasan | Implementasi |
