@@ -4,7 +4,7 @@ Portal portofolio akademik berbasis **Laravel 12 + Laravel Breeze** untuk mengel
 
 ---
 
-## Proyek Mandiri Agentic AI
+## Proyek Kelompok Agentic AI
 
 ### Judul
 **Personalized Agentic AI for Intelligent Job Discovery and Application Preparation**
