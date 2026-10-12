@@ -9,13 +9,23 @@ export default {
         './resources/views/**/*.blade.php',
     ],
 
+    darkMode: 'class',
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Figtree', ...defaultTheme.fontFamily.sans],
+                sans: ['"Plus Jakarta Sans"', 'Inter', ...defaultTheme.fontFamily.sans],
+                serif: ['"Newsreader"', 'Georgia', ...defaultTheme.fontFamily.serif],
             },
+            colors: {
+                brand: {
+                    accent: '#ff5533',
+                    hover: '#ff6b4a',
+                    surface: '#151722',
+                    surfaceHover: '#1c1f2e',
+                    border: 'rgba(255, 255, 255, 0.08)',
+                }
+            }
         },
     },
-
     plugins: [forms],
 };
