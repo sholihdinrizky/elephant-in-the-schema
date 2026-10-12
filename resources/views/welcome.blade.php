@@ -25,10 +25,7 @@
 
                     <!-- Nav links -->
                     <nav class="hidden md:flex items-center gap-8 text-sm font-medium text-zinc-400">
-                        <a href="#konsep" class="hover:text-white transition">Konsep AI</a>
-                        <a href="#tujuan" class="hover:text-white transition">Tujuan</a>
-                        <a href="#database" class="hover:text-white transition">Database</a>
-                        <a href="#spesifikasi" class="hover:text-white transition">Spesifikasi</a>
+                        <a href="#tujuan" class="hover:text-white transition">Agentic AI Konsep</a>
                     </nav>
                 </div>
 
